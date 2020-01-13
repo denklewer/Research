@@ -1,0 +1,3 @@
+[submodule "ClassificationTester"]
+	path = ClassificationTester
+	url = https://github.com/denklewer/ClassificationTester
