@@ -4,9 +4,3 @@
 [submodule "ray-custom-agents"]
 	path = ray-custom-agents
 	url = https://github.com/denklewer/ray-custom-agents
-[submodule "jss7-attack-simulator"]
-	path = jss7-attack-simulator
-	url = https://github.com/denklewer/jss7-attack-simulator
-[submodule "jss7-data-generation-pipeline"]
-	path = jss7-data-generation-pipeline
-	url = https://github.com/denklewer/jss7-data-generation-pipeline
