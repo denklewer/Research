@@ -1,3 +1,6 @@
 [submodule "ClassificationTester"]
 	path = ClassificationTester
 	url = https://github.com/denklewer/ClassificationTester
+[submodule "ray-custom-agents"]
+	path = ray-custom-agents
+	url = https://github.com/denklewer/ray-custom-agents
